@@ -1,0 +1,5 @@
+jidloJedna = int(input("Kolik kalorií mělo jidloJedna?"))
+jidloDva = int(input("Kolik kalorií mělo jidloDva"))
+jidloTri = int(input("Kolik kalorií mělo cisloTri"))
+celkove_kalorie = (jidloJedna + jidloDva + jidloTri)
+print(celkove_kalorie)
